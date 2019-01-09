@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1eac405-55ee-484e-ae02-62bae2d47de3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/solve.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="30" />
+              <folding>
+                <element signature="e#1318#1369#0" />
+                <element signature="e#1403#1453#0" />
+                <element signature="e#1484#1531#0" />
+                <element signature="e#1780#2368#0" />
+                <element signature="e#10233#10471#0" />
+                <element signature="e#10498#10958#0" />
+                <element signature="e#10988#11787#0" />
+                <element signature="e#11830#12025#0" />
+                <element signature="e#12056#12179#0" />
+                <element signature="e#12429#12689#0" />
+                <element signature="e#12721#12893#0" />
+                <element signature="e#12934#13251#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="119" column="32" selection-start-line="119" selection-start-column="28" selection-end-line="119" selection-end-column="32" />
+              <folding>
+                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>useri</find>
+      <find>geti</find>
+      <find>regi</find>
+      <find>showin</find>
+      <find>userName</find>
+      <find>user</find>
+      <find>getit</find>
+      <find>hasLoggedUser</find>
+      <find>regis</find>
+      <find>saveAuthInSession</find>
+      <find>ca</find>
+      <find>docume</find>
+      <find>reg</find>
+      <find>logo</find>
+      <find>preve</find>
+      <find>deb</find>
+      <find>ispu</find>
+      <find>seat</find>
+      <find>quer</find>
+      <find>creat</find>
+      <find>editFlightBtn</find>
+      <find>editcar</find>
+      <find>getir</find>
+      <find>dele</find>
+      <find>authto</find>
+      <find>delete</find>
+      <find>id</find>
+      <find>postDelete</find>
+      <find>data</find>
+      <find>flightId</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;:</replace>
+      <replace>&quot;,</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\VBprojects\JSApplications11.2018\08ExamPreparation\_002AirlineAdministration</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_001CarTube/index.html" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/helpers/storage.js" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/controllers/notifications.js" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/user/login.hbs.html" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/models/userModel.js" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/navigation.hbs" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/common/footer.hbs" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/user/login.hbs" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/user/register.hbs" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/home/home.hbs" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/common/navigation.hbs" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/controllers/home.js" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/static/css/style.css" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/controllers/user.js" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/app.js" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/views/common/header.hbs" />
+        <option value="$PROJECT_DIR$/Airline/static/home.js" />
+        <option value="$PROJECT_DIR$/Airline/constructor.js" />
+        <option value="$PROJECT_DIR$/Airline/header.js" />
+        <option value="$PROJECT_DIR$/_001CarTube/solve.js" />
+        <option value="$PROJECT_DIR$/Airline/skeleton.html" />
+        <option value="$PROJECT_DIR$/Airline/index.html" />
+        <option value="$PROJECT_DIR$/Airline/solve.js" />
+        <option value="$PROJECT_DIR$/_002AirlineAdministration/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="08ExamPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08ExamPreparation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="08ExamPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08ExamPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="_002AirlineAdministration" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\Airline" />
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\lib" />
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\_002AirlineAdministration\views\user" />
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\_dependencies" />
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\_002AirlineAdministration\skeleton" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\Airline" />
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\_002AirlineAdministration\views\common" />
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation\_002AirlineAdministration" />
+      <recent name="C:\VBprojects\JSApplications11.2018\08ExamPreparation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1eac405-55ee-484e-ae02-62bae2d47de3" name="Default Changelist" comment="" />
+      <created>1544639176151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544639176151</updated>
+      <workItem from="1544639177345" duration="255000" />
+      <workItem from="1544639499882" duration="86000" />
+      <workItem from="1544639811249" duration="198000" />
+      <workItem from="1544694744651" duration="196000" />
+      <workItem from="1544707715006" duration="19000" />
+      <workItem from="1544707854288" duration="2000" />
+      <workItem from="1544717479268" duration="14493000" />
+      <workItem from="1544769925287" duration="3768000" />
+      <workItem from="1544807253133" duration="5446000" />
+      <workItem from="1544812716932" duration="17308000" />
+      <workItem from="1544862139327" duration="119000" />
+      <workItem from="1544967996932" duration="3957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45847000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="960" height="982" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24972618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3365973" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32925338" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3365973" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32925338" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/package.json" />
+    <entry file="file://$PROJECT_DIR$/_001CarTube/Import-Data-json/cars.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_dependencies/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/_dependencies/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/popper.js/dist/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_dependencies/handlebars.min.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sammy/lib/min/sammy-latest.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/handlebars.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sammy/lib/sammy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sammy.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sammy/lib/plugins/sammy.handlebars.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sammy.handlebars.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_001CarTube/style/login-register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/helpers/storage.js" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/helpers/requester.js" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/views/common/footer.hbs" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/models/userModel.js" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/controllers/notifications.js" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/views/user/register.hbs" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/views/user/login.hbs" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/views/home/home.hbs" />
+    <entry file="file://$PROJECT_DIR$/lib/popper.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap-grid.css" />
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap-grid.min.css" />
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="6276" selection-start-line="6276" selection-end-line="6278" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="340" column="1" selection-start-line="340" selection-start-column="1" selection-end-line="340" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/views/common/header.hbs" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/controllers/home.js" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/controllers/user.js" />
+    <entry file="file://$PROJECT_DIR$/Airline/header.js" />
+    <entry file="file://$PROJECT_DIR$/Airline/home.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14374" column="4" selection-start-line="14374" selection-start-column="4" selection-end-line="14374" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/skeleton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_001CarTube/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="168" column="46" selection-start-line="168" selection-start-column="39" selection-end-line="168" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_001CarTube/solve.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="355" column="17" selection-start-line="355" selection-start-column="13" selection-end-line="355" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/app.js" />
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="119" column="32" selection-start-line="119" selection-start-column="28" selection-end-line="119" selection-end-column="32" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_002AirlineAdministration/solve.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="30" />
+          <folding>
+            <element signature="e#1318#1369#0" />
+            <element signature="e#1403#1453#0" />
+            <element signature="e#1484#1531#0" />
+            <element signature="e#1780#2368#0" />
+            <element signature="e#10233#10471#0" />
+            <element signature="e#10498#10958#0" />
+            <element signature="e#10988#11787#0" />
+            <element signature="e#11830#12025#0" />
+            <element signature="e#12056#12179#0" />
+            <element signature="e#12429#12689#0" />
+            <element signature="e#12721#12893#0" />
+            <element signature="e#12934#13251#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

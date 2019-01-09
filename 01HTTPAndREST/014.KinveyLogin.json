@@ -1,0 +1,24 @@
+https://baas.kinvey.com/user/kid_rk_BQSBA7/login
+headers:
+Content-Type  application/json
+Authorization   Basic a2lkX3JrX0JRU0JBNzozOWQ0ZTY4YWZlM2M0NGE5YjAyNWQ5YmZiZGUyNzcxMg==
+body:
+{
+	"username":"guest",
+	"password":"guest"
+}
+
+
+
+{
+    "_id": "5bf7c37f90114313ff46a315",
+    "username": "guest",
+    "_kmd": {
+        "lmt": "2018-11-23T09:08:15.405Z",
+        "ect": "2018-11-23T09:08:15.405Z",
+        "authtoken": "e16ae29d-1b4d-471f-ac66-a4a70de1cd5a.ViW9j80aMFOPOW0ahfTmtgsZ7oeO0r7tDZmLy40kc+0="
+    },
+    "_acl": {
+        "creator": "5bf7c37f90114313ff46a315"
+    }
+}

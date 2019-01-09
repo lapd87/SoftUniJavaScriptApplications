@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries & Towns</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+        .half {
+            width: 25%;
+            display: inline-block;
+            margin-bottom: 30px;
+        }
+
+        .half > .title {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .half .controls {
+            text-align: center;
+        }
+
+        select {
+            width: 100%;
+            font-size: 15px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="all">
+
+    <div class="half">
+        <div class="title">Countries</div>
+        <select id="countries" size="1">
+        </select>
+
+        <div class="controls">
+            <button id="btnAddCountry">Add</button>
+            <button id="btnDeleteCountry">Delete</button>
+            <button id="btnEditCountry">Edit</button>
+            <button id="btnGetTowns">Get Towns</button>
+        </div>
+    </div>
+
+    <div class="half">
+        <div class="title">Towns</div>
+        <select id="towns" size="1">
+        </select>
+
+        <div class="controls">
+            <button id="btnAddTown">Add</button>
+            <button id="btnDeleteTown">Delete</button>
+            <button id="btnEditTown">Edit</button>
+        </div>
+    </div>
+
+</div>
+
+<div id="add-edit" style="display: none">
+    <label>New name:</label>
+    <input type="text" id="new"/>
+    <button id="btnSubmit">Add/Edit</button>
+</div>
+
+    <script src="countries.js"></script>
+    <script>attachEvents()</script>
+</body>
+</html>

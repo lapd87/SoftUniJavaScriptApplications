@@ -1,0 +1,17 @@
+https://baas.kinvey.com/appdata/kid_rk_BQSBA7/posts/
+user: guest
+pass: guest
+
+
+{
+    "title": "New Title",
+    "body": "New Post Body",
+    "_acl": {
+        "creator": "5bf7c37f90114313ff46a315"
+    },
+    "_kmd": {
+        "lmt": "2018-11-23T09:38:10.804Z",
+        "ect": "2018-11-23T09:38:10.804Z"
+    },
+    "_id": "5bf7ca82259d6243d86efccd"
+}

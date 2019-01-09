@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd4f7818-3292-423a-918b-e41e0354a756" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>href=&quot;&quot;</find>
+      <find>id=&quot;pas</find>
+      <find>id=&quot;wel</find>
+      <find>showHomeMenuView</find>
+      <find>other-pets-list</find>
+      <find>trigger</find>
+      <find>petLik</find>
+      <find>id=&quot;category&quot;</find>
+      <find>my-pets-list</find>
+      <find>showHideMenuLinks</find>
+      <find>showDashboard</find>
+      <find>sendCreate</find>
+      <find>logou</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exam/pets.json" />
+        <option value="$PROJECT_DIR$/exam/index.html" />
+        <option value="$PROJECT_DIR$/exam/solve.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2018.12.16Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018.12.16Exam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018.12.16Exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018.12.16Exam" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\JSApplications11.2018\2018.12.16Exam\exam" />
+      <recent name="C:\VBprojects\JSApplications11.2018\2018.12.16Exam" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd4f7818-3292-423a-918b-e41e0354a756" name="Default Changelist" comment="" />
+      <created>1544862178938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544862178938</updated>
+      <workItem from="1544862180270" duration="186000" />
+      <workItem from="1544862489847" duration="89000" />
+      <workItem from="1544967987416" duration="14999000" />
+      <workItem from="1544983045724" duration="505000" />
+      <workItem from="1545071028624" duration="139000" />
+      <workItem from="1545380508226" duration="17000" />
+      <workItem from="1545408411413" duration="14000" />
+      <workItem from="1545408461964" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15971000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="960" height="982" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21577218" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925338" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/sammy.js" />
+    <entry file="file://$PROJECT_DIR$/exam/static/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/exam/package.json" />
+    <entry file="file://$PROJECT_DIR$/exam/pets.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam/skeleton.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="n#section#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#10;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam/solve.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#1606#1728#0" />
+            <element signature="e#1780#1859#0" />
+            <element signature="e#1900#1944#0" />
+            <element signature="e#1976#2024#0" />
+            <element signature="e#2058#2108#0" />
+            <element signature="e#2139#2186#0" />
+            <element signature="e#2219#2268#0" />
+            <element signature="e#2300#2372#0" />
+            <element signature="e#2409#2494#0" />
+            <element signature="e#2529#3049#0" />
+            <element signature="e#3099#3331#0" />
+            <element signature="e#3365#3929#0" />
+            <element signature="e#3956#5495#0" />
+            <element signature="e#5529#6005#0" />
+            <element signature="e#6041#7964#0" />
+            <element signature="e#8004#9811#0" />
+            <element signature="e#9839#10562#0" />
+            <element signature="e#10603#10854#0" />
+            <element signature="e#10881#11612#0" />
+            <element signature="e#11642#12428#0" />
+            <element signature="e#12471#12666#0" />
+            <element signature="e#12697#12820#0" />
+            <element signature="e#12864#13031#0" />
+            <element signature="e#13066#13326#0" />
+            <element signature="e#13358#13530#0" />
+            <element signature="e#13571#13888#0" />
+            <element signature="e#13967#14923#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
